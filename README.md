@@ -1,4 +1,4 @@
 # microservices
 microservices
 micro services only code auto deploy
-add deploy auto webhook
+add deploy auto webhooks
